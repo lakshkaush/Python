@@ -1,0 +1,22 @@
+#! /usr/bin/env python
+""" Sample code to test recursion.
+Recursively looks at dirs and prints out dir contents"""
+
+# Function takes in path name and lists contents in the path
+
+import os
+
+def print_dir_contents(sPath):
+    for sChildDir in os.listdir(sPath):
+        print sChildDir
+        print_dir_contents(sChildDir)
+        
+
+
+def main():
+    print "In main"
+    print "Current dir is {}".format(os.curdir)
+    print_dir_contents(os.curdir)
+    
+if "__main__" == __name__:
+    main()

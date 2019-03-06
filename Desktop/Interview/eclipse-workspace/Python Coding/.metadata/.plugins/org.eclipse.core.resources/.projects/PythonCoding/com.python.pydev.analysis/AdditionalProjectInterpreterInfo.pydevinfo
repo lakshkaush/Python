@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/Lakshitha/Desktop/Interview/eclipse-workspace/Python Coding/.metadata/.plugins/org.eclipse.core.resources/.projects/PythonCoding/com.python.pydev.analysis/v2_indexcache
+SimpleCodes.hello_world|1551760427000000000|/Users/Lakshitha/Desktop/Interview/eclipse-workspace/Python Coding/PythonCoding/src/SimpleCodes/hello_world.py
+SimpleCodes.check_imports|1551765390000000000|/Users/Lakshitha/Desktop/Interview/eclipse-workspace/Python Coding/PythonCoding/src/SimpleCodes/check_imports.py
+SimpleCodes.print_dir_contents|1551766202000000000|/Users/Lakshitha/Desktop/Interview/eclipse-workspace/Python Coding/PythonCoding/src/SimpleCodes/print_dir_contents.py
+py_util|1551760710000000000|/Users/Lakshitha/Desktop/Interview/eclipse-workspace/Python Coding/PythonCoding/libs/py_util.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=/Users/Lakshitha/Desktop/Interview/eclipse-workspace/Python Coding/PythonCoding/libs/py_util.py
+3=/Users/Lakshitha/Desktop/Interview/eclipse-workspace/Python Coding/PythonCoding/src/SimpleCodes/check_imports.py
+4=SimpleCodes.check_imports
+2=py_util
+-- END DICTIONARY
+-- START TREE 1
+5
+__a|1|__author__!1^9#1*19@
+__d|1|__date__!1^10#1*19@
+exe|1|execute_command!1^17#5*18@
+get|1|get_dir_contents!1^23#5*18@
+mai|2|main!3^6#5*34@main!1^33#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

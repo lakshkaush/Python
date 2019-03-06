@@ -1,0 +1,5 @@
+#! /usr/bin/env python
+""" Sample python code to test imports from libs """
+
+import py_util
+
